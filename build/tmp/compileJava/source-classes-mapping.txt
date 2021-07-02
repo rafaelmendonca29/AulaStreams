@@ -1,2 +1,10 @@
-AulaStreams/Main.java
- AulaStreams.Main
+AulaStreams/Lists.java
+ AulaStreams.Lists
+AulaStreams/Queues.java
+ AulaStreams.Queues
+AulaStreams/SETS/HashSets.java
+ AulaStreams.SETS.HashSets
+AulaStreams/SETS/LinkedHashSets.java
+ AulaStreams.SETS.LinkedHashSets
+AulaStreams/SETS/TreeSets.java
+ AulaStreams.SETS.TreeSets

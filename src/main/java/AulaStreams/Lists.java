@@ -14,7 +14,7 @@ import java.util.Vector;
  * @author Rafael de Mendonça Araújo
  *
  */
-public class Main {
+public class Lists {
 
     /**
      * @param args the command line arguments
